@@ -7,3 +7,5 @@
 
 - Tree Traversals
 
+- Linear Search and Binary Search
+
